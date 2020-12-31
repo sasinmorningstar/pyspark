@@ -39,7 +39,7 @@ from pyspark.sql.functions import col, concat_ws, lit
 from dependencies.spark import start_spark
 
 
-root_dir = '/home/somitsinha/github/pyspark-example-project'
+root_dir = '/home/somitsinha/github/pyspark'
 
 def main():
     """Main ETL script definition.

@@ -16,7 +16,7 @@ from dependencies.spark import start_spark
 from jobs.etl_job import transform_data
 
 
-root_dir = '/home/somitsinha/github/pyspark-example-project'
+root_dir = '/home/somitsinha/github/pyspark'
 
 class SparkETLTests(unittest.TestCase):
     """Test suite for transformation in etl_job.py
